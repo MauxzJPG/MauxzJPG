@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MauxzJPG
-- 👀 I’m not interested in you
-- 🌱 I’m currently learning about everything
+<h1> 👋 Hi, I’m @MauxzJPG </h1>
 - 📫 How to reach me; you can't
 
 <!---
